@@ -15,4 +15,4 @@
 
 ### where?
 
-- 미팅장소 : https://gather.town/invite?token=6hED0jKM 비번은 카톡문의
+- 미팅장소 : https://gather.town/app/MLGYyDRuK30KUrVL/Evenif-die-on-keyboard 비번은 카톡문의
